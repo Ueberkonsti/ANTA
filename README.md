@@ -11,5 +11,5 @@ The ANTA is coded in Python 3 and is provided as Jupyter Notebook. It requires t
 The ANTA is presented in Klein, K.P., Lantuit, H., Heim, B., Doxaran, D., Juhls, B., Nitze, I., Walch, D., Poste, A., Søreide, J.E., 2021. 'The Arctic Nearshore Turbidity Algorithm (ANTA) - A multi sensor turbidity algorithm for Arctic nearshore environments'. Sci. Remote Sens. 4, 100036. https://doi.org/10.1016/j.srs.2021.100036
 
 # Example
-![Turbidity_model_application](https://user-images.githubusercontent.com/62543871/144064939-9f35d27a-40e0-4c7a-92d3-8d2d9f0bdcf9.png)
+![Turbidity_model_application_cut](https://user-images.githubusercontent.com/62543871/144065926-e0784cb1-e4fa-4630-b7b7-3f7de9855f47.png)
 Application of the ANTA to imagery recorded by Landsat 8, Sentinel 2, and Sentinel 3 (Klein et al., 2021)
